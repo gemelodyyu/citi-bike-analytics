@@ -46,5 +46,25 @@ The year of 2020 has been really tough. The pandemic is changing many aspects of
 **Question 2**: Which bikes (by ID) are most likely due for repair or inspection during January to July 2020?
 
 
-* Bikes need inspection and maintance from time to time. This page highlighted the bike IDs that we believe due inspection based on the totle trip duration (over 1,500,000 seconds) or the average trip duration each month (over 50,000 seconds)
+Bikes need inspection and maintance from time to time. This page highlighted the bike IDs that we believe due inspection based on the totle trip duration (over 1,500,000 seconds) or the average trip duration each month (over 50,000 seconds)
 
+
+<img width="1225" alt="Screen Shot 2020-12-14 at 00 43 56" src="https://user-images.githubusercontent.com/55970064/102048966-a578fd00-3da5-11eb-9623-aa957ad26a73.png">
+
+<img width="1225" alt="Screen Shot 2020-12-14 at 00 44 23" src="https://user-images.githubusercontent.com/55970064/102048968-a742c080-3da5-11eb-9bdc-3dfd4f9611a3.png">
+
+<img width="1225" alt="Screen Shot 2020-12-14 at 00 44 37" src="https://user-images.githubusercontent.com/55970064/102048975-a9a51a80-3da5-11eb-9724-26b86f021639.png">
+
+<img width="1225" alt="Screen Shot 2020-12-14 at 00 44 50" src="https://user-images.githubusercontent.com/55970064/102048980-ac077480-3da5-11eb-8095-acb8b6c90c7a.png">
+
+
+* From January to July, there are 6 bikes that had totle trip duration over 1,500,000 seconds and may need some inspection, including 42197, 44348, 42535, 38355,
+42605, and 42341. 
+
+* There were no bike that had average trip duration over 50,000 seconds. 
+
+* In March, bike 38355 was used the most, and bike 42535 and 42197 may also need inspection. 
+
+* In May, bike 42405 needed to be inspected. 
+
+* In July, three bikes were needed inspection: 44348, 42454, and 42605. 
